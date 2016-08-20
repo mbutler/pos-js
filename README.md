@@ -63,7 +63,8 @@ TAGS:
     POS Possessive ending       ’s
     PDT Predeterminer           all, both
     PP$ Possessive pronoun      my,one’s
-    PRP Personal pronoun         I,you,she
+    PRP Personal pronoun        I,you,she
+    PRP$ Possessive pronoun     yours, mine, hers
     RB Adverb                   quickly
     RBR Adverb, comparative     faster
     RBS Adverb, superlative     fastest
@@ -84,6 +85,7 @@ TAGS:
     , Comma                     ,
     . Sent-final punct          . ! ?
     : Mid-sent punct.           : ; —
+    ; Mid-sent punct.           ;
     $ Dollar sign               $
     # Pound sign                #
     " quote                     "
